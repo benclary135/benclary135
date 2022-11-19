@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @benclary135
+- 👀 I’m interested in learning full stack web development.
+- 🌱 I’m currently learning javascript.
+- 💞️ I’m looking to collaborate on anything I suppose?
+- 📫 How to reach me: benclary135@gmail.com
